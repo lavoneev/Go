@@ -15,14 +15,14 @@
 
 Позволяет загружать данные из XML или JSON-файлов и выводить их в альтернативном формате.
 
-./readDB -f original_database.xml
-./readDB -f stolen_database.json
+`./readDB -f original_database.xml`
+`./readDB -f stolen_database.json`
 
 ### 2. Сравнение баз данных (compareDB)
 
 Анализирует различия между оригинальной и изменённой версией базы данных.
 
-./compareDB --old original_database.xml --new stolen_database.json
+`./compareDB --old original_database.xml --new stolen_database.json`
 
 Выводит список добавленных, удалённых или изменённых рецептов и ингредиентов.
 
@@ -30,4 +30,4 @@
 
 Сравнивает два текстовых файла со списками файлов и находит добавленные и удалённые файлы.
 
-./compareFS --old snapshot1.txt --new snapshot2.txt
+`./compareFS --old snapshot1.txt --new snapshot2.txt`

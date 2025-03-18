@@ -1,3 +1,3 @@
-module Day-01
+module comparingIncomparable
 
 go 1.23.1

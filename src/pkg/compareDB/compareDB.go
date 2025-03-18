@@ -1,7 +1,7 @@
 package DBcomparer
 
 import (
-	DBreader "Day-01/pkg/readDB"
+	DBreader "comparingIncomparable/pkg/readDB"
 	"fmt"
 	"os"
 )

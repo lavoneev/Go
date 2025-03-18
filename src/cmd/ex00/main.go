@@ -1,7 +1,7 @@
 package main
 
 import (
-	DBreader "Day-01/pkg/readDB"
+	DBreader "comparingIncomparable/pkg/readDB"
 	"flag"
 	"fmt"
 )

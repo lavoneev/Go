@@ -1,7 +1,7 @@
 package tests
 
 import (
-	DBreader "Day-01/pkg/readDB"
+	DBreader "comparingIncomparable/pkg/readDB"
 	"encoding/json"
 	"encoding/xml"
 	"strings"

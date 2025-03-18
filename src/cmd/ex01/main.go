@@ -1,7 +1,7 @@
 package main
 
 import (
-	DBcomparer "Day-01/pkg/compareDB"
+	DBcomparer "comparingIncomparable/pkg/compareDB"
 	"flag"
 )
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	FScomparer "Day-01/pkg/compareFS"
+	FScomparer "comparingIncomparable/pkg/compareFS"
 	"flag"
 )
 
